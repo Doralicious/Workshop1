@@ -2457,3 +2457,246 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.14-13.09.13:474][471]BlueprintLog: New page: Compile hoverboard1
 [2022.12.14-13.09.13:605][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
 [2022.12.14-13.09.13:686][473]LogViewport: Scene viewport resized to 636x390, mode Windowed.
+[2022.12.14-13.19.29:648][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.14-13.19.29:703][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/hoverboard1" FILE="../../../../../../Users/Dora/Documents/Unreal Projects/Workshop1/Content/Blueprints/hoverboard1.uasset" SILENT=true
+[2022.12.14-13.19.29:752][386]LogSavePackage: Moving output files for package: /Game/Blueprints/hoverboard1
+[2022.12.14-13.19.29:752][386]LogSavePackage: Moving '../../../../../../Users/Dora/Documents/Unreal Projects/Workshop1/Saved/hoverboard1DB639569494B3E784C1BA0BA1E37F6E5.tmp' to '../../../../../../Users/Dora/Documents/Unreal Projects/Workshop1/Content/Blueprints/hoverboard1.uasset'
+[2022.12.14-13.19.29:757][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.59 sec)
+[2022.12.14-13.19.29:766][386]AssetCheck: New page: Asset Save: hoverboard1
+[2022.12.14-13.19.29:766][386]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/hoverboard1.hoverboard1
+[2022.12.14-13.19.30:196][411]BlueprintLog: New page: Compile hoverboard1
+[2022.12.14-13.19.30:314][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.12.14-13.19.30:444][413]LogViewport: Scene viewport resized to 636x390, mode Windowed.
+[2022.12.14-13.21.12:955][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.14-13.21.13:005][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/hoverboard1" FILE="../../../../../../Users/Dora/Documents/Unreal Projects/Workshop1/Content/Blueprints/hoverboard1.uasset" SILENT=true
+[2022.12.14-13.21.13:054][530]LogSavePackage: Moving output files for package: /Game/Blueprints/hoverboard1
+[2022.12.14-13.21.13:054][530]LogSavePackage: Moving '../../../../../../Users/Dora/Documents/Unreal Projects/Workshop1/Saved/hoverboard1F1D0D5694497176B3C1B559526CC9046.tmp' to '../../../../../../Users/Dora/Documents/Unreal Projects/Workshop1/Content/Blueprints/hoverboard1.uasset'
+[2022.12.14-13.21.13:059][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 1.69 sec)
+[2022.12.14-13.21.13:066][530]AssetCheck: New page: Asset Save: hoverboard1
+[2022.12.14-13.21.13:066][530]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/hoverboard1.hoverboard1
+[2022.12.14-13.21.20:406][989]LogSlate: Window 'hoverboard1' being destroyed
+[2022.12.14-13.21.20:411][989]LogSlate: Window 'hoverboard1' being destroyed
+[2022.12.14-13.21.20:414][989]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-13.21.20:414][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-13.21.22:094][103]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.14-13.21.22:099][103]LogContentBundle: [Container: TerrainMap1] Generating Streaming for 0 Content Bundles.
+[2022.12.14-13.21.22:101][103]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.14-13.21.22:101][103]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.14-13.21.22:101][103]LogWorldPartition: Display: GetPartitionedActors took 29 us (total: 993 us)
+[2022.12.14-13.21.22:102][103]LogWorldPartition: Display: GenerateStreaming took 657 us (total: 461 ms)
+[2022.12.14-13.21.22:102][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-13.21.22:102][103]PIE: New page: PIE session: TerrainMap1 (Dec 14, 2022, 3:21:22 AM)
+[2022.12.14-13.21.22:102][103]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TerrainMap1
+[2022.12.14-13.21.22:107][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004573s)
+[2022.12.14-13.21.22:107][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerrainMap1.TerrainMap1 to /Game/UEDPIE_0_TerrainMap1.TerrainMap1 (0.004599s)
+[2022.12.14-13.21.22:107][103]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-13.21.22:107][103]LogAIModule: Creating AISystem for world TerrainMap1
+[2022.12.14-13.21.22:108][103]LogWorldPartition: ULevel::OnLevelLoaded(TerrainMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.14-13.21.22:108][103]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.14-13.21.22:108][103]LogWorldPartition: UWorldPartition::Initialize(Asset=TerrainMap1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.14-13.21.22:109][103]LogContentBundle: [Container: TerrainMap1] Creating new contrainer.
+[2022.12.14-13.21.22:109][103]LogWorldPartition: Display: WorldPartition initialize took 948 us (total: 877 ms)
+[2022.12.14-13.21.22:109][103]LogPlayLevel: PIE: World Init took: (0.001723s)
+[2022.12.14-13.21.22:155][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.12.14-13.21.22:157][103]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.12.14-13.21.22:157][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-13.21.22:157][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-13.21.22:157][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-13.21.22:157][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-13.21.22:157][103]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.14-13.21.22:157][103]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.14-13.21.22:157][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.14-13.21.22:157][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-13.21.22:158][103]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-13.21.22:158][103]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-13.21.22:158][103]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-13.21.22:160][103]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.14-13.21.22:229][103]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.12.14-13.21.22:229][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-13.21.22:229][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-13.21.22:229][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-13.21.22:229][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.12.14-13.21.22:229][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.12.14-13.21.22:231][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.12.14-13.21.22:231][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.12.14-13.21.22:231][103]LogInit: FAudioDevice initialized.
+[2022.12.14-13.21.22:231][103]LogAudio: Display: Audio Device (ID: 14) registered with world 'TerrainMap1'.
+[2022.12.14-13.21.22:233][103]LogLoad: Game class is 'Hoverboard1Controller_C'
+[2022.12.14-13.21.22:234][103]LogWorld: Bringing World /Game/UEDPIE_0_TerrainMap1.TerrainMap1 up for play (max tick rate 0) at 2022.12.14-08.21.22
+[2022.12.14-13.21.22:234][103]LogWorld: Bringing up level for play took: 0.000354
+[2022.12.14-13.21.22:235][103]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.12.14-13.21.22:236][103]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-72543.285 Y=76480.256 Z=8870.643
+[2022.12.14-13.21.22:236][103]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(20), CellsToLoad(0), CellsToUnload(0)
+[2022.12.14-13.21.22:236][103]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-72543.285 Y=76480.256 Z=8870.643,P=0.000000 Y=99.999999 R=-0.000000
+[2022.12.14-13.21.22:237][103]LogStreaming: Display: FlushAsyncLoading(-1): 20 QueuedPackages, 0 AsyncPackages
+[2022.12.14-13.21.22:336][103]PIE: Server logged in
+[2022.12.14-13.21.22:336][103]PIE: Play in editor total start time 0.237 seconds.
+[2022.12.14-13.21.37:681][928]LogWorldPartition: Detected Streaming Source Teleport: PlayerController_0 -> Last Position: X=-72528.353 Y=76455.247 Z=8869.115 -> New Position: X=3652.094 Y=35823.558 Z=259.816
+[2022.12.14-13.21.37:724][932]LogStreaming: Warning: Detected 32 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2022.12.14-13.21.37:785][936]LogStreaming: Warning: Detected 8 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2022.12.14-13.21.37:846][940]LogStreaming: Warning: Detected 12 objects loaded in PostLoad while streaming, this may cause hitches as we're blocking async loading to pre-load them.
+[2022.12.14-13.21.38:919][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-13.21.38:919][ 63]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TerrainMap1
+[2022.12.14-13.21.38:928][ 63]LogWorld: UWorld::CleanupWorld for TerrainMap1, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-13.21.38:928][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-13.21.38:929][ 63]LogContentBundle: [Container: TerrainMap1] Deleting container.
+[2022.12.14-13.21.38:932][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-13.21.38:937][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-13.21.38:961][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-13.21.38:961][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.12.14-13.21.38:963][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.12.14-13.21.38:974][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.12.14-13.21.39:013][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.12.14-13.21.39:024][ 64]LogViewport: Scene viewport resized to 636x390, mode Windowed.
+[2022.12.14-13.21.40:407][160]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.14-13.21.40:412][160]LogContentBundle: [Container: TerrainMap1] Generating Streaming for 0 Content Bundles.
+[2022.12.14-13.21.40:414][160]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.14-13.21.40:414][160]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.14-13.21.40:414][160]LogWorldPartition: Display: GetPartitionedActors took 30 us (total: 1 ms)
+[2022.12.14-13.21.40:414][160]LogWorldPartition: Display: GenerateStreaming took 645 us (total: 462 ms)
+[2022.12.14-13.21.40:415][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-13.21.40:415][160]PIE: New page: PIE session: TerrainMap1 (Dec 14, 2022, 3:21:40 AM)
+[2022.12.14-13.21.40:415][160]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TerrainMap1
+[2022.12.14-13.21.40:419][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004385s)
+[2022.12.14-13.21.40:419][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerrainMap1.TerrainMap1 to /Game/UEDPIE_0_TerrainMap1.TerrainMap1 (0.004409s)
+[2022.12.14-13.21.40:419][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-13.21.40:420][160]LogAIModule: Creating AISystem for world TerrainMap1
+[2022.12.14-13.21.40:420][160]LogWorldPartition: ULevel::OnLevelLoaded(TerrainMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.14-13.21.40:420][160]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.14-13.21.40:420][160]LogWorldPartition: UWorldPartition::Initialize(Asset=TerrainMap1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.14-13.21.40:421][160]LogContentBundle: [Container: TerrainMap1] Creating new contrainer.
+[2022.12.14-13.21.40:421][160]LogWorldPartition: Display: WorldPartition initialize took 946 us (total: 878 ms)
+[2022.12.14-13.21.40:421][160]LogPlayLevel: PIE: World Init took: (0.001634s)
+[2022.12.14-13.21.40:442][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.12.14-13.21.40:443][160]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.12.14-13.21.40:443][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-13.21.40:443][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-13.21.40:443][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-13.21.40:443][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-13.21.40:443][160]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.14-13.21.40:443][160]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.14-13.21.40:443][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.14-13.21.40:443][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-13.21.40:443][160]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-13.21.40:443][160]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-13.21.40:443][160]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-13.21.40:445][160]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.14-13.21.40:510][160]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.12.14-13.21.40:511][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-13.21.40:511][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-13.21.40:511][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-13.21.40:511][160]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.12.14-13.21.40:511][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2022.12.14-13.21.40:512][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.12.14-13.21.40:512][160]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.12.14-13.21.40:512][160]LogInit: FAudioDevice initialized.
+[2022.12.14-13.21.40:512][160]LogAudio: Display: Audio Device (ID: 15) registered with world 'TerrainMap1'.
+[2022.12.14-13.21.40:514][160]LogLoad: Game class is 'Hoverboard1Controller_C'
+[2022.12.14-13.21.40:515][160]LogWorld: Bringing World /Game/UEDPIE_0_TerrainMap1.TerrainMap1 up for play (max tick rate 0) at 2022.12.14-08.21.40
+[2022.12.14-13.21.40:515][160]LogWorld: Bringing up level for play took: 0.000327
+[2022.12.14-13.21.40:516][160]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.12.14-13.21.40:517][160]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=3677.262 Y=35680.826 Z=206.835
+[2022.12.14-13.21.40:517][160]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(37), CellsToLoad(0), CellsToUnload(0)
+[2022.12.14-13.21.40:517][160]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=3677.262 Y=35680.826 Z=206.835,P=0.000000 Y=99.999999 R=-0.000000
+[2022.12.14-13.21.40:523][160]LogStreaming: Display: FlushAsyncLoading(-1): 36 QueuedPackages, 0 AsyncPackages
+[2022.12.14-13.21.40:688][160]PIE: Server logged in
+[2022.12.14-13.21.40:689][160]PIE: Play in editor total start time 0.278 seconds.
+[2022.12.14-13.22.00:289][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-13.22.00:289][487]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TerrainMap1
+[2022.12.14-13.22.00:297][487]LogWorld: UWorld::CleanupWorld for TerrainMap1, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-13.22.00:297][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-13.22.00:297][487]LogContentBundle: [Container: TerrainMap1] Deleting container.
+[2022.12.14-13.22.00:300][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-13.22.00:305][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-13.22.00:330][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-13.22.00:330][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.12.14-13.22.00:331][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.12.14-13.22.00:341][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.12.14-13.22.00:379][488]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.12.14-13.22.00:390][488]LogViewport: Scene viewport resized to 636x390, mode Windowed.
+[2022.12.14-13.22.04:513][768]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/hoverboard1.hoverboard1
+[2022.12.14-13.22.04:513][768]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-13.23.40:213][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.14-13.23.40:270][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/hoverboard1" FILE="../../../../../../Users/Dora/Documents/Unreal Projects/Workshop1/Content/Blueprints/hoverboard1.uasset" SILENT=true
+[2022.12.14-13.23.40:319][546]LogSavePackage: Moving output files for package: /Game/Blueprints/hoverboard1
+[2022.12.14-13.23.40:319][546]LogSavePackage: Moving '../../../../../../Users/Dora/Documents/Unreal Projects/Workshop1/Saved/hoverboard125760B6B439D4922C90AB6A6ACEF6032.tmp' to '../../../../../../Users/Dora/Documents/Unreal Projects/Workshop1/Content/Blueprints/hoverboard1.uasset'
+[2022.12.14-13.23.40:326][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.81 sec)
+[2022.12.14-13.23.40:333][546]AssetCheck: New page: Asset Save: hoverboard1
+[2022.12.14-13.23.40:333][546]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/hoverboard1.hoverboard1
+[2022.12.14-13.23.40:766][572]BlueprintLog: New page: Compile hoverboard1
+[2022.12.14-13.23.40:870][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.12.14-13.23.40:985][574]LogViewport: Scene viewport resized to 636x390, mode Windowed.
+[2022.12.14-13.23.53:147][357]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.14-13.23.53:152][357]LogContentBundle: [Container: TerrainMap1] Generating Streaming for 0 Content Bundles.
+[2022.12.14-13.23.53:153][357]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.14-13.23.53:153][357]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.14-13.23.53:153][357]LogWorldPartition: Display: GetPartitionedActors took 29 us (total: 1 ms)
+[2022.12.14-13.23.53:154][357]LogWorldPartition: Display: GenerateStreaming took 639 us (total: 462 ms)
+[2022.12.14-13.23.53:155][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-13.23.53:155][357]PIE: New page: PIE session: TerrainMap1 (Dec 14, 2022, 3:23:53 AM)
+[2022.12.14-13.23.53:155][357]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TerrainMap1
+[2022.12.14-13.23.53:160][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004491s)
+[2022.12.14-13.23.53:160][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerrainMap1.TerrainMap1 to /Game/UEDPIE_0_TerrainMap1.TerrainMap1 (0.004514s)
+[2022.12.14-13.23.53:160][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-13.23.53:160][357]LogAIModule: Creating AISystem for world TerrainMap1
+[2022.12.14-13.23.53:160][357]LogWorldPartition: ULevel::OnLevelLoaded(TerrainMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.14-13.23.53:160][357]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.14-13.23.53:160][357]LogWorldPartition: UWorldPartition::Initialize(Asset=TerrainMap1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.14-13.23.53:161][357]LogContentBundle: [Container: TerrainMap1] Creating new contrainer.
+[2022.12.14-13.23.53:161][357]LogWorldPartition: Display: WorldPartition initialize took 919 us (total: 879 ms)
+[2022.12.14-13.23.53:161][357]LogPlayLevel: PIE: World Init took: (0.001586s)
+[2022.12.14-13.23.53:190][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.12.14-13.23.53:192][357]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.12.14-13.23.53:192][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-13.23.53:192][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-13.23.53:192][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-13.23.53:192][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-13.23.53:192][357]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.14-13.23.53:192][357]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.14-13.23.53:192][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.14-13.23.53:192][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-13.23.53:193][357]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-13.23.53:193][357]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-13.23.53:193][357]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-13.23.53:194][357]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.14-13.23.53:261][357]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.12.14-13.23.53:262][357]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-13.23.53:262][357]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-13.23.53:262][357]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-13.23.53:263][357]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2022.12.14-13.23.53:263][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2022.12.14-13.23.53:264][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2022.12.14-13.23.53:264][357]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2022.12.14-13.23.53:264][357]LogInit: FAudioDevice initialized.
+[2022.12.14-13.23.53:264][357]LogAudio: Display: Audio Device (ID: 16) registered with world 'TerrainMap1'.
+[2022.12.14-13.23.53:266][357]LogLoad: Game class is 'Hoverboard1Controller_C'
+[2022.12.14-13.23.53:267][357]LogWorld: Bringing World /Game/UEDPIE_0_TerrainMap1.TerrainMap1 up for play (max tick rate 0) at 2022.12.14-08.23.53
+[2022.12.14-13.23.53:267][357]LogWorld: Bringing up level for play took: 0.000364
+[2022.12.14-13.23.53:268][357]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2022.12.14-13.23.53:269][357]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-21532.325 Y=63729.941 Z=4015.462
+[2022.12.14-13.23.53:269][357]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(31), CellsToLoad(0), CellsToUnload(0)
+[2022.12.14-13.23.53:269][357]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-21532.325 Y=63729.941 Z=4015.462,P=0.000000 Y=171.142555 R=-0.000000
+[2022.12.14-13.23.53:276][357]LogStreaming: Display: FlushAsyncLoading(-1): 30 QueuedPackages, 0 AsyncPackages
+[2022.12.14-13.23.53:420][357]LogWorldPartition: Detected Streaming Source Teleport: PlayerController_0 -> Last Position: X=-21532.325 Y=63729.941 Z=4015.462 -> New Position: X=3600.000 Y=36119.000 Z=160.000
+[2022.12.14-13.23.53:420][357]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(10), CellsToLoad(0), CellsToUnload(4)
+[2022.12.14-13.23.53:420][357]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=3600.000 Y=36119.000 Z=160.000,P=0.000000 Y=99.999999 R=-0.000000
+[2022.12.14-13.23.53:469][357]PIE: Server logged in
+[2022.12.14-13.23.53:470][357]PIE: Play in editor total start time 0.318 seconds.
+[2022.12.14-13.24.40:199][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-13.24.40:199][937]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TerrainMap1
+[2022.12.14-13.24.40:204][937]LogWorld: UWorld::CleanupWorld for TerrainMap1, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-13.24.40:204][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-13.24.40:204][937]LogContentBundle: [Container: TerrainMap1] Deleting container.
+[2022.12.14-13.24.40:208][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-13.24.40:213][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-13.24.40:242][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-13.24.40:245][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.12.14-13.24.40:246][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.12.14-13.24.40:256][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.12.14-13.24.40:294][938]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.12.14-13.24.40:304][938]LogViewport: Scene viewport resized to 636x390, mode Windowed.
+[2022.12.14-13.25.12:360][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.12.14-13.25.12:365][422]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TerrainMap1/7/R4/4L6RD30IFD5REDLUP8GVYK_Auto1
+[2022.12.14-13.25.12:365][422]LogSavePackage: Moving '../../../../../../Users/Dora/Documents/Unreal Projects/Workshop1/Saved/4L6RD30IFD5REDLUP8GVYK_Auto12DB54D4848EAABCA4729D2AD5B1F0B83.tmp' to '../../../../../../Users/Dora/Documents/Unreal Projects/Workshop1/Saved/Autosaves/Game/__ExternalActors__/TerrainMap1/7/R4/4L6RD30IFD5REDLUP8GVYK_Auto1.uasset'
+[2022.12.14-13.25.12:367][422]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TerrainMap1' took 0.037
+[2022.12.14-13.25.12:367][422]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
