@@ -2263,3 +2263,830 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.23-16.20.46:554][503]LogTemp: Display: TCPConnectionListener() accepted connection on port 3015
 [2022.12.23-16.20.46:570][504]LogTemp: Display: TCPConnectionListener() accepted connection on port 3013
 [2022.12.23-16.20.46:635][508]LogTemp: Display: TCPConnectionListener() accepted connection on port 3003
+[2022.12.23-16.37.28:334][380]LogStreaming: Display: UWorld::AddToWorld: updating components for /Memory/UEDPIE_0_MainGrid_L0_X-4_Y0_DL0 took (less than) 47.48 ms
+[2022.12.23-16.42.07:884][ 55]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.42.07:884][ 55]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.42.07:884][ 55]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.42.07:884][ 55]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.42.07:884][ 55]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.42.07:884][ 55]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.42.07:884][ 55]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.42.07:884][ 55]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.42.07:885][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Content: 'C:/UE/UE_5.1/Engine/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:885][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Bridge/Content: 'C:/UE/UE_5.1/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:885][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/2D/Paper2D/Content: 'C:/UE/UE_5.1/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:886][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/UE/UE_5.1/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:886][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/UE/UE_5.1/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:886][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/UE/UE_5.1/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:886][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/UE/UE_5.1/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:886][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Experimental/Dataflow/Content: 'C:/UE/UE_5.1/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:886][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/UE/UE_5.1/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:886][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/UE/UE_5.1/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:886][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/UE/UE_5.1/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:886][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/UE/UE_5.1/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:886][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/UE/UE_5.1/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:886][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/UE/UE_5.1/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:886][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Experimental/UVEditor/Content: 'C:/UE/UE_5.1/Engine/Plugins/Experimental/UVEditor/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:886][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Animation/ControlRig/Content: 'C:/UE/UE_5.1/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/UE/UE_5.1/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Animation/IKRig/Content: 'C:/UE/UE_5.1/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/FX/Niagara/Content: 'C:/UE/UE_5.1/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/UE/UE_5.1/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/UE/UE_5.1/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Media/MediaCompositing/Content: 'C:/UE/UE_5.1/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Media/MediaPlate/Content: 'C:/UE/UE_5.1/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/UE/UE_5.1/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Editor/GLTFImporter/Content: 'C:/UE/UE_5.1/Engine/Plugins/Editor/GLTFImporter/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Editor/GeometryMode/Content: 'C:/UE/UE_5.1/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/UE/UE_5.1/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Interchange/Runtime/Content: 'C:/UE/UE_5.1/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/UE/UE_5.1/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/UE/UE_5.1/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/UE/UE_5.1/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/UE/UE_5.1/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/UE/UE_5.1/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/UE/UE_5.1/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/UE/UE_5.1/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/UE/UE_5.1/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Runtime/Metasound/Content: 'C:/UE/UE_5.1/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/UE/UE_5.1/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Runtime/WaveTable/Content: 'C:/UE/UE_5.1/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Runtime/Synthesis/Content: 'C:/UE/UE_5.1/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/UE/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.07:887][ 55]SourceControl: fatal: C:/UE/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/UE/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/netht/Documents/Unreal Projects/Workshop1'
+[2022.12.23-16.42.14:097][ 55]LogSlate: Window 'Submit Files' being destroyed
+[2022.12.23-16.42.14:357][ 66]SourceControl: Error: fatal: invalid object name 'C'.
+[2022.12.23-16.42.14:357][ 66]LogSourceControl: Warning: UpdateHistory Failed.
+[2022.12.23-16.50.17:164][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-16.50.17:164][967]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TerrainMap1
+[2022.12.23-16.50.17:224][967]LogWorld: UWorld::CleanupWorld for TerrainMap1, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-16.50.17:230][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-16.50.17:235][967]LogContentBundle: [Container: TerrainMap1] Deleting container.
+[2022.12.23-16.50.17:291][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.23-16.50.17:316][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-16.50.17:380][967]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.23-16.50.17:392][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.23-16.50.17:399][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.23-16.50.17:445][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-16.50.17:564][967]LogUObjectHash: Compacting FUObjectHashTables data took  24.23ms
+[2022.12.23-16.50.17:713][968]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.12.23-16.50.39:840][780]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.50.39:841][780]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.50.40:592][821]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.50.40:592][821]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.50.53:410][557]LogSlate: Took 0.001013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.12.23-16.51.01:969][ 46]BlueprintLog: New page: Compile BP_HoverboardRLEnv
+[2022.12.23-16.51.02:084][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.12.23-16.51.02:655][ 64]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.02:655][ 64]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.02:663][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-16.51.02:784][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-16.51.02:826][ 64]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-16.51.02:827][ 64]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnvE54A8E4040DB9957D2B2CA8A091DC09E.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-16.51.02:841][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 1.89 sec)
+[2022.12.23-16.51.02:848][ 64]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-16.51.02:848][ 64]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-16.51.02:933][ 68]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.02:933][ 68]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.07:257][322]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.07:257][322]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.08:226][380]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.08:226][380]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.22:294][197]BlueprintLog: New page: Compile BP_HoverboardRLEnv
+[2022.12.23-16.51.22:372][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.12.23-16.51.23:019][225]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.23:019][225]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.23:024][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-16.51.23:092][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-16.51.23:116][225]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-16.51.23:117][225]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnv7234D5494BAA10EBCEC2FFA31B9420FD.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-16.51.23:127][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 2.00 sec)
+[2022.12.23-16.51.23:133][225]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-16.51.23:133][225]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-16.51.23:215][229]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.23:215][229]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.28:061][513]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.28:061][513]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.29:071][573]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.29:071][573]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.29:346][581]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.29:346][581]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.29:350][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-16.51.29:460][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-16.51.29:484][581]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-16.51.29:485][581]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnv99DD33794CA21730911DAC9BF1314C6E.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-16.51.29:495][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 2.14 sec)
+[2022.12.23-16.51.29:502][581]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-16.51.29:502][581]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-16.51.29:569][585]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.29:569][585]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.35:495][935]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.35:495][935]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.36:489][986]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.36:489][986]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.36:492][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-16.51.36:577][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-16.51.36:601][986]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-16.51.36:602][986]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnv1E41E90440ED2724686AA0B09AF960BF.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-16.51.36:612][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 2.26 sec)
+[2022.12.23-16.51.36:620][986]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-16.51.36:620][986]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-16.51.36:700][990]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.36:700][990]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.40:211][196]BlueprintLog: New page: Compile BP_HoverboardRLEnv
+[2022.12.23-16.51.40:295][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.23-16.51.41:019][222]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.41:019][222]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.41:024][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-16.51.41:107][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-16.51.41:131][222]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-16.51.41:132][222]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnv431D17C54184311BF40351831FAC4E05.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-16.51.41:141][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.38 sec)
+[2022.12.23-16.51.41:147][222]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-16.51.41:147][222]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-16.51.41:211][225]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.41:211][225]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.47:606][600]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.47:606][600]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.51.48:617][660]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.51.48:617][660]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.52.16:632][248]BlueprintLog: New page: Compile BP_HoverboardRLEnv
+[2022.12.23-16.52.16:712][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.12.23-16.52.17:385][272]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.52.17:385][272]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.52.17:388][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-16.52.17:475][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-16.52.17:499][272]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-16.52.17:500][272]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnvC21251C941C4B519DC3C0BA8C5CAC23B.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-16.52.17:509][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 2.50 sec)
+[2022.12.23-16.52.17:514][272]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-16.52.17:514][272]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-16.52.17:586][276]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.52.17:586][276]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.52.22:651][578]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.52.22:651][578]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.52.23:668][639]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.52.23:668][639]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.52.53:297][375]BlueprintLog: New page: Compile BP_HoverboardRLEnv
+[2022.12.23-16.52.53:378][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.12.23-16.52.53:948][395]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.52.53:948][395]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.52.53:952][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-16.52.54:036][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-16.52.54:059][395]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-16.52.54:061][395]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnv441B9F9D40BB4BA471FAB392F79ADFF2.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-16.52.54:069][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 2.62 sec)
+[2022.12.23-16.52.54:075][395]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-16.52.54:075][395]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-16.52.54:152][399]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.52.54:152][399]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.55.25:322][232]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.55.25:322][232]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.55.26:289][290]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.55.26:289][290]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.56.13:718][897]BlueprintLog: New page: Compile BP_HoverboardRLEnv
+[2022.12.23-16.56.13:793][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.12.23-16.56.14:336][920]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.56.14:336][920]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.56.14:339][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-16.56.14:405][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-16.56.14:429][920]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-16.56.14:430][920]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnvD26AE0F34FA7F172E19D85B8677C8F9D.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-16.56.14:438][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2.72 sec)
+[2022.12.23-16.56.14:445][920]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-16.56.14:445][920]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-16.56.14:517][924]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.56.14:517][924]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.56.22:203][382]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.56.22:203][382]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.56.23:526][436]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.56.23:526][436]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.57.20:881][624]BlueprintLog: New page: Compile BP_HoverboardRLEnv
+[2022.12.23-16.57.20:958][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.12.23-16.57.21:486][645]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.57.21:486][645]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.57.21:489][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-16.57.21:556][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-16.57.21:583][645]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-16.57.21:583][645]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnvF8A8317E472B7F1A3DF3C2A27AA83EA7.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-16.57.21:591][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 2.82 sec)
+[2022.12.23-16.57.21:599][645]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-16.57.21:599][645]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-16.57.21:676][649]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.57.21:676][649]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.57.25:740][887]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.23-16.57.25:749][887]LogContentBundle: [Container: TerrainMap1] Generating Streaming for 0 Content Bundles.
+[2022.12.23-16.57.25:756][887]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.23-16.57.25:756][887]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.23-16.57.25:757][887]LogWorldPartition: Display: GetPartitionedActors took 490 us (total: 1 ms)
+[2022.12.23-16.57.25:757][887]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 4 ms)
+[2022.12.23-16.57.25:763][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.23-16.57.25:773][887]PIE: New page: PIE session: TerrainMap1 (Dec 23, 2022, 6:57:25 AM)
+[2022.12.23-16.57.25:775][887]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TerrainMap1
+[2022.12.23-16.57.25:789][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013266s)
+[2022.12.23-16.57.25:789][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerrainMap1.TerrainMap1 to /Game/UEDPIE_0_TerrainMap1.TerrainMap1 (0.013602s)
+[2022.12.23-16.57.25:797][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-16.57.25:811][887]LogAIModule: Creating AISystem for world TerrainMap1
+[2022.12.23-16.57.25:819][887]LogWorldPartition: ULevel::OnLevelLoaded(TerrainMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.23-16.57.25:819][887]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.23-16.57.25:819][887]LogWorldPartition: UWorldPartition::Initialize(Asset=TerrainMap1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.23-16.57.25:820][887]LogContentBundle: [Container: TerrainMap1] Creating new contrainer.
+[2022.12.23-16.57.25:824][887]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 576 ms)
+[2022.12.23-16.57.25:824][887]LogPlayLevel: PIE: World Init took: (0.034704s)
+[2022.12.23-16.57.25:864][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.12.23-16.57.25:871][887]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.23-16.57.25:872][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.23-16.57.25:873][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.23-16.57.25:873][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.23-16.57.25:873][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.23-16.57.25:873][887]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.23-16.57.25:873][887]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.23-16.57.25:873][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.23-16.57.25:873][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.23-16.57.25:875][887]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.23-16.57.25:875][887]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.23-16.57.25:875][887]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.23-16.57.25:880][887]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.23-16.57.25:948][887]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.12.23-16.57.25:951][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.23-16.57.25:951][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.23-16.57.25:951][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.23-16.57.25:954][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.12.23-16.57.25:955][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.12.23-16.57.25:956][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.12.23-16.57.25:956][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.12.23-16.57.25:956][887]LogInit: FAudioDevice initialized.
+[2022.12.23-16.57.25:957][887]LogAudio: Display: Audio Device (ID: 3) registered with world 'TerrainMap1'.
+[2022.12.23-16.57.25:967][887]LogLoad: Game class is 'Hoverboard1Controller_C'
+[2022.12.23-16.57.25:972][887]LogWorld: Bringing World /Game/UEDPIE_0_TerrainMap1.TerrainMap1 up for play (max tick rate 60) at 2022.12.23-11.57.25
+[2022.12.23-16.57.25:973][887]LogWorld: Bringing up level for play took: 0.004420
+[2022.12.23-16.57.25:982][887]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.12.23-16.57.25:998][887]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-509.000 Y=34865.000 Z=619.000
+[2022.12.23-16.57.25:998][887]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(35), CellsToLoad(0), CellsToUnload(0)
+[2022.12.23-16.57.25:998][887]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-509.000 Y=34865.000 Z=619.000,P=0.000000 Y=0.000000 R=-0.000000
+[2022.12.23-16.57.26:003][887]LogStreaming: Display: FlushAsyncLoading(-1): 40 QueuedPackages, 0 AsyncPackages
+[2022.12.23-16.57.26:549][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:549][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:550][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:550][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:550][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:550][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:551][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:551][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:551][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:552][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:552][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:552][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:552][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:553][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:553][887]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.57.26:562][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3000
+[2022.12.23-16.57.26:562][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3001
+[2022.12.23-16.57.26:562][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3002
+[2022.12.23-16.57.26:563][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3003
+[2022.12.23-16.57.26:563][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3004
+[2022.12.23-16.57.26:563][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3005
+[2022.12.23-16.57.26:563][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3006
+[2022.12.23-16.57.26:563][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3007
+[2022.12.23-16.57.26:563][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3008
+[2022.12.23-16.57.26:563][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3009
+[2022.12.23-16.57.26:563][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3010
+[2022.12.23-16.57.26:564][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3011
+[2022.12.23-16.57.26:564][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3012
+[2022.12.23-16.57.26:564][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3013
+[2022.12.23-16.57.26:564][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3014
+[2022.12.23-16.57.26:564][887]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3015
+[2022.12.23-16.57.26:565][887]PIE: Server logged in
+[2022.12.23-16.57.26:566][887]PIE: Play in editor total start time 0.818 seconds.
+[2022.12.23-16.57.59:117][536]LogTemp: Display: TCPConnectionListener() accepted connection on port 3004
+[2022.12.23-16.57.59:134][537]LogTemp: Display: TCPConnectionListener() accepted connection on port 3001
+[2022.12.23-16.57.59:200][541]LogTemp: Display: TCPConnectionListener() accepted connection on port 3000
+[2022.12.23-16.57.59:353][550]LogTemp: Display: TCPConnectionListener() accepted connection on port 3006
+[2022.12.23-16.57.59:355][550]LogTemp: Display: TCPConnectionListener() accepted connection on port 3007
+[2022.12.23-16.57.59:356][550]LogTemp: Display: TCPConnectionListener() accepted connection on port 3014
+[2022.12.23-16.57.59:379][551]LogTemp: Display: TCPConnectionListener() accepted connection on port 3005
+[2022.12.23-16.57.59:445][555]LogTemp: Display: TCPConnectionListener() accepted connection on port 3003
+[2022.12.23-16.57.59:496][558]LogTemp: Display: TCPConnectionListener() accepted connection on port 3008
+[2022.12.23-16.57.59:498][558]LogTemp: Display: TCPConnectionListener() accepted connection on port 3009
+[2022.12.23-16.57.59:520][559]LogTemp: Display: TCPConnectionListener() accepted connection on port 3010
+[2022.12.23-16.57.59:562][561]LogTemp: Display: TCPConnectionListener() accepted connection on port 3002
+[2022.12.23-16.57.59:659][566]LogTemp: Display: TCPConnectionListener() accepted connection on port 3011
+[2022.12.23-16.57.59:755][572]LogTemp: Display: TCPConnectionListener() accepted connection on port 3013
+[2022.12.23-16.57.59:855][578]LogTemp: Display: TCPConnectionListener() accepted connection on port 3012
+[2022.12.23-16.57.59:856][578]LogTemp: Display: TCPConnectionListener() accepted connection on port 3015
+[2022.12.23-16.58.03:910][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-16.58.03:910][789]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TerrainMap1
+[2022.12.23-16.58.03:933][789]LogWorld: UWorld::CleanupWorld for TerrainMap1, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-16.58.03:933][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-16.58.03:933][789]LogContentBundle: [Container: TerrainMap1] Deleting container.
+[2022.12.23-16.58.03:939][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.23-16.58.03:945][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-16.58.03:982][789]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.23-16.58.03:983][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.23-16.58.03:985][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.23-16.58.03:992][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-16.58.04:005][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.12.23-16.58.04:268][790]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.12.23-16.58.16:631][468]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.58.16:631][468]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.58.17:583][524]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.58.17:583][524]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.58.33:562][654]BlueprintLog: New page: Compile BP_HoverboardRLEnv
+[2022.12.23-16.58.33:642][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.12.23-16.58.34:251][678]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.58.34:251][678]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.58.34:255][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-16.58.34:352][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-16.58.34:377][678]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-16.58.34:379][678]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnv295979D145FB67CBD3CE3FAFC197EF13.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-16.58.34:389][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 2.95 sec)
+[2022.12.23-16.58.34:396][678]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-16.58.34:396][678]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-16.58.34:472][682]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-16.58.34:472][682]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-16.58.36:330][834]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.23-16.58.36:338][834]LogContentBundle: [Container: TerrainMap1] Generating Streaming for 0 Content Bundles.
+[2022.12.23-16.58.36:339][834]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.23-16.58.36:339][834]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.23-16.58.36:339][834]LogWorldPartition: Display: GetPartitionedActors took 37 us (total: 1 ms)
+[2022.12.23-16.58.36:340][834]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 5 ms)
+[2022.12.23-16.58.36:341][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.23-16.58.36:341][834]PIE: New page: PIE session: TerrainMap1 (Dec 23, 2022, 6:58:36 AM)
+[2022.12.23-16.58.36:341][834]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TerrainMap1
+[2022.12.23-16.58.36:346][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005054s)
+[2022.12.23-16.58.36:346][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerrainMap1.TerrainMap1 to /Game/UEDPIE_0_TerrainMap1.TerrainMap1 (0.005083s)
+[2022.12.23-16.58.36:347][834]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-16.58.36:347][834]LogAIModule: Creating AISystem for world TerrainMap1
+[2022.12.23-16.58.36:347][834]LogWorldPartition: ULevel::OnLevelLoaded(TerrainMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.23-16.58.36:347][834]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.23-16.58.36:347][834]LogWorldPartition: UWorldPartition::Initialize(Asset=TerrainMap1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.23-16.58.36:349][834]LogContentBundle: [Container: TerrainMap1] Creating new contrainer.
+[2022.12.23-16.58.36:349][834]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 577 ms)
+[2022.12.23-16.58.36:349][834]LogPlayLevel: PIE: World Init took: (0.002003s)
+[2022.12.23-16.58.36:387][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.12.23-16.58.36:391][834]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.23-16.58.36:391][834]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.23-16.58.36:391][834]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.23-16.58.36:391][834]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.23-16.58.36:391][834]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.23-16.58.36:391][834]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.23-16.58.36:391][834]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.23-16.58.36:391][834]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.23-16.58.36:391][834]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.23-16.58.36:391][834]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.23-16.58.36:391][834]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.23-16.58.36:391][834]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.23-16.58.36:395][834]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.23-16.58.36:453][834]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.12.23-16.58.36:454][834]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.23-16.58.36:454][834]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.23-16.58.36:454][834]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.23-16.58.36:455][834]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.12.23-16.58.36:455][834]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.12.23-16.58.36:456][834]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.12.23-16.58.36:456][834]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.12.23-16.58.36:456][834]LogInit: FAudioDevice initialized.
+[2022.12.23-16.58.36:456][834]LogAudio: Display: Audio Device (ID: 4) registered with world 'TerrainMap1'.
+[2022.12.23-16.58.36:460][834]LogLoad: Game class is 'Hoverboard1Controller_C'
+[2022.12.23-16.58.36:461][834]LogWorld: Bringing World /Game/UEDPIE_0_TerrainMap1.TerrainMap1 up for play (max tick rate 0) at 2022.12.23-11.58.36
+[2022.12.23-16.58.36:461][834]LogWorld: Bringing up level for play took: 0.000570
+[2022.12.23-16.58.36:464][834]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.12.23-16.58.36:465][834]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-236.000 Y=34850.000 Z=571.000
+[2022.12.23-16.58.36:465][834]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(35), CellsToLoad(0), CellsToUnload(0)
+[2022.12.23-16.58.36:465][834]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-236.000 Y=34850.000 Z=571.000,P=0.000000 Y=0.000000 R=-0.000000
+[2022.12.23-16.58.36:468][834]LogStreaming: Display: FlushAsyncLoading(-1): 40 QueuedPackages, 0 AsyncPackages
+[2022.12.23-16.58.36:734][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:734][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:734][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:734][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:735][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:735][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:735][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:735][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:736][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:736][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:736][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:736][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:737][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:737][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:737][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-16.58.36:743][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3000
+[2022.12.23-16.58.36:743][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3001
+[2022.12.23-16.58.36:743][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3002
+[2022.12.23-16.58.36:743][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3003
+[2022.12.23-16.58.36:743][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3004
+[2022.12.23-16.58.36:744][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3005
+[2022.12.23-16.58.36:744][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3006
+[2022.12.23-16.58.36:744][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3007
+[2022.12.23-16.58.36:744][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3008
+[2022.12.23-16.58.36:744][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3009
+[2022.12.23-16.58.36:744][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3010
+[2022.12.23-16.58.36:745][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3011
+[2022.12.23-16.58.36:745][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3012
+[2022.12.23-16.58.36:745][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3013
+[2022.12.23-16.58.36:745][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3014
+[2022.12.23-16.58.36:745][834]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3015
+[2022.12.23-16.58.36:745][834]PIE: Server logged in
+[2022.12.23-16.58.36:746][834]PIE: Play in editor total start time 0.408 seconds.
+[2022.12.23-16.58.55:634][864]LogTemp: Display: TCPConnectionListener() accepted connection on port 3000
+[2022.12.23-16.58.55:711][871]LogTemp: Display: TCPConnectionListener() accepted connection on port 3003
+[2022.12.23-16.58.55:753][874]LogTemp: Display: TCPConnectionListener() accepted connection on port 3002
+[2022.12.23-16.58.55:754][874]LogTemp: Display: TCPConnectionListener() accepted connection on port 3004
+[2022.12.23-16.58.55:770][875]LogTemp: Display: TCPConnectionListener() accepted connection on port 3001
+[2022.12.23-16.58.55:903][884]LogTemp: Display: TCPConnectionListener() accepted connection on port 3007
+[2022.12.23-16.58.55:918][885]LogTemp: Display: TCPConnectionListener() accepted connection on port 3015
+[2022.12.23-16.58.55:946][887]LogTemp: Display: TCPConnectionListener() accepted connection on port 3011
+[2022.12.23-16.58.55:995][891]LogTemp: Display: TCPConnectionListener() accepted connection on port 3014
+[2022.12.23-16.58.56:051][896]LogTemp: Display: TCPConnectionListener() accepted connection on port 3008
+[2022.12.23-16.58.56:115][902]LogTemp: Display: TCPConnectionListener() accepted connection on port 3005
+[2022.12.23-16.58.56:207][910]LogTemp: Display: TCPConnectionListener() accepted connection on port 3006
+[2022.12.23-16.58.56:207][910]LogTemp: Display: TCPConnectionListener() accepted connection on port 3013
+[2022.12.23-16.58.56:507][938]LogTemp: Display: TCPConnectionListener() accepted connection on port 3009
+[2022.12.23-16.58.56:569][944]LogTemp: Display: TCPConnectionListener() accepted connection on port 3010
+[2022.12.23-16.58.56:627][949]LogTemp: Display: TCPConnectionListener() accepted connection on port 3012
+[2022.12.23-17.00.17:041][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-17.00.17:041][684]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TerrainMap1
+[2022.12.23-17.00.17:070][684]LogWorld: UWorld::CleanupWorld for TerrainMap1, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-17.00.17:071][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-17.00.17:072][684]LogContentBundle: [Container: TerrainMap1] Deleting container.
+[2022.12.23-17.00.17:081][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.23-17.00.17:088][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-17.00.17:128][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-17.00.17:132][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.23-17.00.17:134][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.23-17.00.17:157][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.12.23-17.00.17:899][685]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.12.23-17.00.36:025][866]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.00.36:026][866]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.00.37:074][935]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.00.37:074][935]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.00.39:151][ 70]BlueprintLog: New page: Compile BP_HoverboardRLEnv
+[2022.12.23-17.00.39:252][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.12.23-17.00.39:917][ 99]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.00.39:917][ 99]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.00.39:921][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-17.00.40:030][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-17.00.40:059][ 99]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-17.00.40:060][ 99]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnvAC3D389B46CB0670867182A1DA80116D.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-17.00.40:070][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 3.10 sec)
+[2022.12.23-17.00.40:079][ 99]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-17.00.40:079][ 99]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-17.00.40:175][105]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.00.40:175][105]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.00.54:455][246]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.00.54:455][246]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.00.55:454][334]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.00.55:454][334]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.01.03:093][962]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.01.03:093][962]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.01.03:097][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-17.01.03:210][962]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TerrainMap1/C/HK/M5I5HZJO4GO2DU1CQHZJIQ
+[2022.12.23-17.01.03:211][962]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/M5I5HZJO4GO2DU1CQHZJIQ42CEBAF34D597FD26AB0A9B1086BB3DB.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/__ExternalActors__/TerrainMap1/C/HK/M5I5HZJO4GO2DU1CQHZJIQ.uasset'
+[2022.12.23-17.01.03:267][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 3.27 sec)
+[2022.12.23-17.01.03:278][962]AssetCheck: New page: Asset Save: BP_HoverRLEnvSpawner_C_UAID_0A0027000007265401_1493126554
+[2022.12.23-17.01.03:278][962]LogContentValidation: Display: Validating /Game/Blueprints/BP_HoverRLEnvSpawner.BP_HoverRLEnvSpawner_C /Game/TerrainMap1.TerrainMap1:PersistentLevel.BP_HoverRLEnvSpawner_C_UAID_0A0027000007265401_1493126554
+[2022.12.23-17.01.03:365][967]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.01.03:365][967]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.01.07:452][273]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.01.07:452][273]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.01.08:172][313]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.01.08:172][313]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.01.08:176][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-17.01.08:279][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-17.01.08:308][313]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-17.01.08:309][313]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnvB51B4D434183387B5776059201944DD6.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-17.01.08:321][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 3.42 sec)
+[2022.12.23-17.01.08:328][313]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-17.01.08:328][313]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-17.01.08:437][319]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.01.08:437][319]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.01.24:604][340]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.01.24:604][340]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.01.25:630][396]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.01.25:630][396]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.02.01:282][411]BlueprintLog: New page: Compile BP_HoverboardRLEnv
+[2022.12.23-17.02.01:388][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.12.23-17.02.02:151][447]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.02.02:151][447]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.02.02:154][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-17.02.02:241][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-17.02.02:270][447]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-17.02.02:271][447]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnvE58BBDD44EEDCA603D1E13B7EBDB6986.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-17.02.02:280][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 3.54 sec)
+[2022.12.23-17.02.02:288][447]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-17.02.02:288][447]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-17.02.02:361][451]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.02.02:361][451]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.02.04:786][628]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.23-17.02.04:794][628]LogContentBundle: [Container: TerrainMap1] Generating Streaming for 0 Content Bundles.
+[2022.12.23-17.02.04:796][628]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.23-17.02.04:796][628]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.23-17.02.04:796][628]LogWorldPartition: Display: GetPartitionedActors took 34 us (total: 1 ms)
+[2022.12.23-17.02.04:797][628]LogWorldPartition: Display: GenerateStreaming took 710 us (total: 6 ms)
+[2022.12.23-17.02.04:797][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.23-17.02.04:797][628]PIE: New page: PIE session: TerrainMap1 (Dec 23, 2022, 7:02:04 AM)
+[2022.12.23-17.02.04:797][628]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TerrainMap1
+[2022.12.23-17.02.04:801][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004015s)
+[2022.12.23-17.02.04:801][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerrainMap1.TerrainMap1 to /Game/UEDPIE_0_TerrainMap1.TerrainMap1 (0.004044s)
+[2022.12.23-17.02.04:802][628]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-17.02.04:802][628]LogAIModule: Creating AISystem for world TerrainMap1
+[2022.12.23-17.02.04:802][628]LogWorldPartition: ULevel::OnLevelLoaded(TerrainMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.23-17.02.04:802][628]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.23-17.02.04:802][628]LogWorldPartition: UWorldPartition::Initialize(Asset=TerrainMap1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.23-17.02.04:804][628]LogContentBundle: [Container: TerrainMap1] Creating new contrainer.
+[2022.12.23-17.02.04:804][628]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 579 ms)
+[2022.12.23-17.02.04:804][628]LogPlayLevel: PIE: World Init took: (0.002632s)
+[2022.12.23-17.02.04:857][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.12.23-17.02.04:860][628]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.12.23-17.02.04:860][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.23-17.02.04:860][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.23-17.02.04:860][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.23-17.02.04:860][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.23-17.02.04:860][628]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.23-17.02.04:860][628]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.23-17.02.04:860][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.23-17.02.04:860][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.23-17.02.04:861][628]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.23-17.02.04:861][628]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.23-17.02.04:861][628]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.23-17.02.04:866][628]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.23-17.02.04:924][628]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.12.23-17.02.04:925][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.23-17.02.04:925][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.23-17.02.04:925][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.23-17.02.04:926][628]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.12.23-17.02.04:926][628]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.12.23-17.02.04:927][628]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.12.23-17.02.04:927][628]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.12.23-17.02.04:927][628]LogInit: FAudioDevice initialized.
+[2022.12.23-17.02.04:927][628]LogAudio: Display: Audio Device (ID: 5) registered with world 'TerrainMap1'.
+[2022.12.23-17.02.04:932][628]LogLoad: Game class is 'Hoverboard1Controller_C'
+[2022.12.23-17.02.04:933][628]LogWorld: Bringing World /Game/UEDPIE_0_TerrainMap1.TerrainMap1 up for play (max tick rate 0) at 2022.12.23-12.02.04
+[2022.12.23-17.02.04:933][628]LogWorld: Bringing up level for play took: 0.000604
+[2022.12.23-17.02.04:935][628]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.12.23-17.02.04:936][628]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-509.000 Y=34865.000 Z=619.000
+[2022.12.23-17.02.04:936][628]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(35), CellsToLoad(0), CellsToUnload(0)
+[2022.12.23-17.02.04:936][628]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-509.000 Y=34865.000 Z=619.000,P=0.000000 Y=0.000000 R=-0.000000
+[2022.12.23-17.02.04:938][628]LogStreaming: Display: FlushAsyncLoading(-1): 40 QueuedPackages, 0 AsyncPackages
+[2022.12.23-17.02.05:226][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:226][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:227][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:227][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:227][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:227][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:227][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:228][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:228][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:229][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:229][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:229][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:230][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:230][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:230][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:230][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:230][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:231][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:231][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:231][628]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3000
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3001
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3002
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3003
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3004
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3005
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3006
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3007
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3008
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3009
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3010
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3011
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3012
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3013
+[2022.12.23-17.02.05:237][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3014
+[2022.12.23-17.02.05:238][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3015
+[2022.12.23-17.02.05:238][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3016
+[2022.12.23-17.02.05:238][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3017
+[2022.12.23-17.02.05:238][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3018
+[2022.12.23-17.02.05:238][628]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3019
+[2022.12.23-17.02.05:238][628]PIE: Server logged in
+[2022.12.23-17.02.05:239][628]PIE: Play in editor total start time 0.446 seconds.
+[2022.12.23-17.02.31:587][183]LogTemp: Display: TCPConnectionListener() accepted connection on port 3001
+[2022.12.23-17.02.31:690][192]LogTemp: Display: TCPConnectionListener() accepted connection on port 3015
+[2022.12.23-17.02.31:771][198]LogTemp: Display: TCPConnectionListener() accepted connection on port 3002
+[2022.12.23-17.02.31:773][198]LogTemp: Display: TCPConnectionListener() accepted connection on port 3008
+[2022.12.23-17.02.31:774][198]LogTemp: Display: TCPConnectionListener() accepted connection on port 3010
+[2022.12.23-17.02.31:819][202]LogTemp: Display: TCPConnectionListener() accepted connection on port 3007
+[2022.12.23-17.02.31:868][206]LogTemp: Display: TCPConnectionListener() accepted connection on port 3004
+[2022.12.23-17.02.31:870][206]LogTemp: Display: TCPConnectionListener() accepted connection on port 3005
+[2022.12.23-17.02.31:871][206]LogTemp: Display: TCPConnectionListener() accepted connection on port 3009
+[2022.12.23-17.02.31:959][214]LogTemp: Display: TCPConnectionListener() accepted connection on port 3000
+[2022.12.23-17.02.31:960][214]LogTemp: Display: TCPConnectionListener() accepted connection on port 3003
+[2022.12.23-17.02.31:962][214]LogTemp: Display: TCPConnectionListener() accepted connection on port 3006
+[2022.12.23-17.02.31:964][214]LogTemp: Display: TCPConnectionListener() accepted connection on port 3014
+[2022.12.23-17.02.31:989][216]LogTemp: Display: TCPConnectionListener() accepted connection on port 3011
+[2022.12.23-17.02.32:023][219]LogTemp: Display: TCPConnectionListener() accepted connection on port 3017
+[2022.12.23-17.02.32:105][224]LogTemp: Display: TCPConnectionListener() accepted connection on port 3016
+[2022.12.23-17.02.32:167][227]LogTemp: Display: TCPConnectionListener() accepted connection on port 3013
+[2022.12.23-17.02.32:278][233]LogTemp: Display: TCPConnectionListener() accepted connection on port 3012
+[2022.12.23-17.02.32:280][233]LogTemp: Display: TCPConnectionListener() accepted connection on port 3018
+[2022.12.23-17.02.32:368][239]LogTemp: Display: TCPConnectionListener() accepted connection on port 3019
+[2022.12.23-17.07.30:357][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-17.07.30:358][ 82]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TerrainMap1
+[2022.12.23-17.07.30:422][ 82]LogWorld: UWorld::CleanupWorld for TerrainMap1, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-17.07.30:429][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-17.07.30:433][ 82]LogContentBundle: [Container: TerrainMap1] Deleting container.
+[2022.12.23-17.07.30:469][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.23-17.07.30:483][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-17.07.30:554][ 82]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.23-17.07.30:567][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.12.23-17.07.30:577][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.12.23-17.07.30:606][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-17.07.30:699][ 82]LogUObjectHash: Compacting FUObjectHashTables data took  18.81ms
+[2022.12.23-17.07.30:861][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.12.23-17.07.39:067][315]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.07.39:067][315]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.07.39:911][345]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.07.39:911][345]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.07.48:488][770]BlueprintLog: New page: Compile BP_HoverboardRLEnv
+[2022.12.23-17.07.48:629][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.12.23-17.07.49:409][799]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.07.49:409][799]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.07.49:416][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-17.07.49:515][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-17.07.49:568][799]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-17.07.49:569][799]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnv9585AAEE438F556EB4FD2EA7233042C3.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-17.07.49:582][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 3.71 sec)
+[2022.12.23-17.07.49:808][799]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-17.07.49:808][799]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-17.07.49:897][803]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.07.49:897][803]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.08.07:118][853]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.08.07:119][853]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.08.08:146][910]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.08.08:146][910]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.08.34:586][617]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::Subtract_VectorVector' [Element not found.]
+[2022.12.23-17.08.39:956][905]BlueprintLog: New page: Compile BP_HoverboardRLEnv
+[2022.12.23-17.08.40:046][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.12.23-17.08.40:756][934]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.08.40:756][934]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.08.40:760][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-17.08.40:856][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-17.08.40:883][934]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-17.08.40:884][934]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnvE85F80E9441665110E10DC8E8CF9EEC2.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-17.08.40:894][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 3.84 sec)
+[2022.12.23-17.08.40:905][934]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-17.08.40:905][934]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-17.08.40:995][938]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.08.40:995][938]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.08.47:570][346]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.08.47:570][346]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.08.48:464][392]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.08.48:464][392]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.08.48:467][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-17.08.48:548][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-17.08.48:575][392]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-17.08.48:575][392]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnv4EACD9304A91C545634947B7CB0C86D4.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-17.08.48:584][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 3.96 sec)
+[2022.12.23-17.08.48:591][392]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-17.08.48:591][392]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-17.08.48:665][396]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.08.48:665][396]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.08.53:781][691]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.08.53:781][691]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.08.54:783][761]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.08.54:783][761]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.09.21:528][319]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.09.21:528][319]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.09.21:531][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-17.09.21:598][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HoverboardRLEnv" FILE="../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset" SILENT=true
+[2022.12.23-17.09.21:626][319]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HoverboardRLEnv
+[2022.12.23-17.09.21:628][319]LogSavePackage: Moving '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Saved/BP_HoverboardRLEnv0964C2B1461CBBFAAA9AB1831D3134B5.tmp' to '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Content/Blueprints/BP_HoverboardRLEnv.uasset'
+[2022.12.23-17.09.21:637][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 4.07 sec)
+[2022.12.23-17.09.21:645][319]AssetCheck: New page: Asset Save: BP_HoverboardRLEnv
+[2022.12.23-17.09.21:645][319]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_HoverboardRLEnv.BP_HoverboardRLEnv
+[2022.12.23-17.09.21:749][325]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.09.21:749][325]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.09.25:534][561]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.23-17.09.25:545][561]LogContentBundle: [Container: TerrainMap1] Generating Streaming for 0 Content Bundles.
+[2022.12.23-17.09.25:553][561]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.23-17.09.25:554][561]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.23-17.09.25:554][561]LogWorldPartition: Display: GetPartitionedActors took 685 us (total: 2 ms)
+[2022.12.23-17.09.25:555][561]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 8 ms)
+[2022.12.23-17.09.25:562][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.23-17.09.25:570][561]PIE: New page: PIE session: TerrainMap1 (Dec 23, 2022, 7:09:25 AM)
+[2022.12.23-17.09.25:573][561]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TerrainMap1
+[2022.12.23-17.09.25:607][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032841s)
+[2022.12.23-17.09.25:607][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerrainMap1.TerrainMap1 to /Game/UEDPIE_0_TerrainMap1.TerrainMap1 (0.033170s)
+[2022.12.23-17.09.25:616][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-17.09.25:630][561]LogAIModule: Creating AISystem for world TerrainMap1
+[2022.12.23-17.09.25:640][561]LogWorldPartition: ULevel::OnLevelLoaded(TerrainMap1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.23-17.09.25:640][561]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.23-17.09.25:640][561]LogWorldPartition: UWorldPartition::Initialize(Asset=TerrainMap1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.23-17.09.25:641][561]LogContentBundle: [Container: TerrainMap1] Creating new contrainer.
+[2022.12.23-17.09.25:644][561]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 584 ms)
+[2022.12.23-17.09.25:645][561]LogPlayLevel: PIE: World Init took: (0.038805s)
+[2022.12.23-17.09.25:684][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.12.23-17.09.25:692][561]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.12.23-17.09.25:693][561]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.23-17.09.25:694][561]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.23-17.09.25:694][561]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.23-17.09.25:694][561]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.23-17.09.25:694][561]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.23-17.09.25:694][561]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.23-17.09.25:694][561]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.23-17.09.25:694][561]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.23-17.09.25:698][561]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.23-17.09.25:698][561]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.23-17.09.25:698][561]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.23-17.09.25:702][561]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.23-17.09.25:761][561]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.12.23-17.09.25:765][561]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.23-17.09.25:765][561]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.23-17.09.25:765][561]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.23-17.09.25:768][561]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.12.23-17.09.25:769][561]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.12.23-17.09.25:770][561]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.12.23-17.09.25:770][561]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.12.23-17.09.25:770][561]LogInit: FAudioDevice initialized.
+[2022.12.23-17.09.25:770][561]LogAudio: Display: Audio Device (ID: 6) registered with world 'TerrainMap1'.
+[2022.12.23-17.09.25:782][561]LogLoad: Game class is 'Hoverboard1Controller_C'
+[2022.12.23-17.09.25:787][561]LogWorld: Bringing World /Game/UEDPIE_0_TerrainMap1.TerrainMap1 up for play (max tick rate 0) at 2022.12.23-12.09.25
+[2022.12.23-17.09.25:788][561]LogWorld: Bringing up level for play took: 0.005902
+[2022.12.23-17.09.25:796][561]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.12.23-17.09.25:810][561]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-509.000 Y=34865.000 Z=619.000
+[2022.12.23-17.09.25:810][561]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(35), CellsToLoad(0), CellsToUnload(0)
+[2022.12.23-17.09.25:810][561]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-509.000 Y=34865.000 Z=619.000,P=0.000000 Y=0.000000 R=-0.000000
+[2022.12.23-17.09.25:818][561]LogStreaming: Display: FlushAsyncLoading(-1): 40 QueuedPackages, 0 AsyncPackages
+[2022.12.23-17.09.26:376][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:378][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:378][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:378][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:378][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:379][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:379][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:379][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:379][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:380][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:380][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:380][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:380][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:381][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:381][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:381][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:381][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:381][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:381][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:382][561]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.12.23-17.09.26:390][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3000
+[2022.12.23-17.09.26:390][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3001
+[2022.12.23-17.09.26:390][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3002
+[2022.12.23-17.09.26:390][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3003
+[2022.12.23-17.09.26:390][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3004
+[2022.12.23-17.09.26:390][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3005
+[2022.12.23-17.09.26:390][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3006
+[2022.12.23-17.09.26:390][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3007
+[2022.12.23-17.09.26:391][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3008
+[2022.12.23-17.09.26:391][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3009
+[2022.12.23-17.09.26:391][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3010
+[2022.12.23-17.09.26:391][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3011
+[2022.12.23-17.09.26:391][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3012
+[2022.12.23-17.09.26:391][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3013
+[2022.12.23-17.09.26:391][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3014
+[2022.12.23-17.09.26:392][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3015
+[2022.12.23-17.09.26:392][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3016
+[2022.12.23-17.09.26:392][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3017
+[2022.12.23-17.09.26:392][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3018
+[2022.12.23-17.09.26:392][561]LogTemp: Display: CreateServer>> Listen socket created! ~> port 3019
+[2022.12.23-17.09.26:393][561]PIE: Server logged in
+[2022.12.23-17.09.26:394][561]PIE: Play in editor total start time 0.85 seconds.
+[2022.12.23-17.09.56:801][275]LogTemp: Display: TCPConnectionListener() accepted connection on port 3000
+[2022.12.23-17.09.56:934][286]LogTemp: Display: TCPConnectionListener() accepted connection on port 3003
+[2022.12.23-17.09.56:996][290]LogTemp: Display: TCPConnectionListener() accepted connection on port 3015
+[2022.12.23-17.09.57:022][291]LogTemp: Display: TCPConnectionListener() accepted connection on port 3011
+[2022.12.23-17.09.57:066][293]LogTemp: Display: TCPConnectionListener() accepted connection on port 3001
+[2022.12.23-17.09.57:068][293]LogTemp: Display: TCPConnectionListener() accepted connection on port 3002
+[2022.12.23-17.09.57:069][293]LogTemp: Display: TCPConnectionListener() accepted connection on port 3007
+[2022.12.23-17.09.57:070][293]LogTemp: Display: TCPConnectionListener() accepted connection on port 3010
+[2022.12.23-17.09.57:151][298]LogTemp: Display: TCPConnectionListener() accepted connection on port 3004
+[2022.12.23-17.09.57:168][299]LogTemp: Display: TCPConnectionListener() accepted connection on port 3016
+[2022.12.23-17.09.57:258][306]LogTemp: Display: TCPConnectionListener() accepted connection on port 3006
+[2022.12.23-17.09.57:568][332]LogTemp: Display: TCPConnectionListener() accepted connection on port 3009
+[2022.12.23-17.09.57:568][332]LogTemp: Display: TCPConnectionListener() accepted connection on port 3013
+[2022.12.23-17.09.57:569][332]LogTemp: Display: TCPConnectionListener() accepted connection on port 3014
+[2022.12.23-17.09.57:647][339]LogTemp: Display: TCPConnectionListener() accepted connection on port 3008
+[2022.12.23-17.09.57:659][340]LogTemp: Display: TCPConnectionListener() accepted connection on port 3017
+[2022.12.23-17.09.57:692][343]LogTemp: Display: TCPConnectionListener() accepted connection on port 3012
+[2022.12.23-17.09.57:839][356]LogTemp: Display: TCPConnectionListener() accepted connection on port 3018
+[2022.12.23-17.09.57:839][356]LogTemp: Display: TCPConnectionListener() accepted connection on port 3019
+[2022.12.23-17.09.58:064][376]LogTemp: Display: TCPConnectionListener() accepted connection on port 3005
+[2022.12.23-17.11.27:223][408]LogDerivedDataCache: C:/Users/netht/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.450 and deleted 0 files with total size 0 MiB. Scanned 2899 files in 2870 folders with total size 67 MiB.
+[2022.12.23-17.15.53:529][129]LogSlate: Window 'Plugin Properties' being destroyed
+[2022.12.23-17.15.53:708][129]SourceControl: Error: hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+[2022.12.23-17.15.53:708][129]SourceControl: Error: hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+[2022.12.23-17.16.01:776][130]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000062AC4040000) on the [0x0000062ABD180A80, 3D] queue has not completed after 6.803297 seconds.
+[2022.12.23-17.16.03:177][133]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000062AC4101260) on the [0x0000062ABD180A80, 3D] queue has not completed after 8.202118 seconds.
+[2022.12.23-17.16.04:794][133]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000062AC4101B20) on the [0x0000062ABD180A80, 3D] queue has not completed after 9.816131 seconds.
+[2022.12.23-17.21.05:173][732]LogSlate: Window 'Plugins' being destroyed
+[2022.12.23-17.21.05:179][732]LogSlate: Window 'Plugins' being destroyed
+[2022.12.23-17.21.05:180][732]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.12.23-17.21.05:181][732]LogDirectoryWatcher: A directory notification for '../../../../../Users/netht/Documents/Unreal Projects/Workshop1/Plugins/' was aborted.
